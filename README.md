@@ -36,8 +36,8 @@ The generated research paper includes the following sections:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/owgee/healthcare-reform-paper.git
-    cd healthcare-reform-paper
+    git clone https://github.com/owgee/LLMs.git
+    cd LLMs
     ```
 
 2. Install the required packages:
