@@ -2,7 +2,7 @@
 
 This project uses OpenAI's GPT-3 language model to generate a research paper titled "Comprehensive Healthcare for America: Using the Insights of Behavioral Economics to Transform the U.S. Healthcare System." The paper covers various aspects of healthcare reform, including lessons from behavioral economics, proposals for system reform, and implementation strategies.
 
-The aim of this project is to reproduce this paper and then conduct surveys where central question will be to assess whether the LLM produced paper is perceived superior to human produced research paper.
+The aim of this project is to reproduce [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10209990/] this paper and then conduct surveys where central question will be to assess whether the LLM produced paper is perceived superior to human produced research paper.
 
 ## Overview
 
